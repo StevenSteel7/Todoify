@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912703882806",
+    "project_id": "todify-8bc6c",
+    "storage_bucket": "todify-8bc6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912703882806:android:bd3cbb857c9dea06a53a97",
+        "android_client_info": {
+          "package_name": "ir.ehsan.asmrtodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRx8Q_TGwJwoUaMgfryj24-tS8QMDNRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

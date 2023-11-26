@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Todoist</string>
+    <string name ="hello">Hellooo BuuRooo!!</string>
+    <string name ="create_account">Create an Account</string>
+    <string name ="welcome">Welcome Back</string>
+    <string name ="first_name">First Name</string>
+    <string name ="last_name">Last Name</string>
+    <string name ="email">Email</string>
+    <string name ="pass">Password</string>
+    <string name="hide_password">\"Hide Password\"</string>
+    <string name="show_password">\"Show password\"</string>
+    <string name="terms_and_conditions">By Continuing ,Privacy Policy and Terms of Use</string>
+    <string name="terms_and_condition_header">Terms of use</string>
+    <string name="Lol">LOL\nLOL\nLOL\nLOL\nLOL</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="Hey">Hey there!</string>
+    <string name="homescreen">HomeScreen</string>
+    <string name="Signout">Sign Out</string>
+    <string name="Welcome">Welcome Back</string>
+</resources>
